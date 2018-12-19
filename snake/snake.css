@@ -46,3 +46,14 @@ font-family: 'Emilys Candy', cursive;
     margin: 360px -200px;
 }
 
+
+@media screen and (max-width: 400px){
+
+    #canvas {
+        width: 400px;
+        height: 400px;
+            position: absolute;
+     
+    }
+
+}
